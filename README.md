@@ -1,3 +1,5 @@
+![img](diagram.png)
+
 ## Creating Jobs in Jenkins
 - Log into the jenkins webserver at http://35.176.10.123:8080/
 - Create a New Item
